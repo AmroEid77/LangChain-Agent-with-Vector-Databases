@@ -32,7 +32,7 @@ Follow these steps to set up and run the project locally.
     git clone https://github.com/YourGitHubUsername/LangChain_HW2.git
     cd LangChain_HW2
     ```
-    (Replace `YourGitHubUsername/LangChain_HW2.git` with your actual repository URL)
+    
 
 2.  **Create a virtual environment (recommended):**
     ```bash
